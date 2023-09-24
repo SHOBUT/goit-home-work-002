@@ -58,9 +58,17 @@ color: #404bbf;
 .address{
 font-style: normal;
 }
+.address-link{
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.address-link:hover{
+color: #404bbf;
+}
 
 /*Hero styles*/
-.hero-title{
-    
+.hero-title:focus{
+color: #404bbf;
 }
 
