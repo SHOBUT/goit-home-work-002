@@ -1,6 +1,6 @@
 /*Base style*/
 :root{
-
+--main-text-color: #434455;
 }
 body{
 font-family: 'Roboto', sans-serif;
