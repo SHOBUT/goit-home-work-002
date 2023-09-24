@@ -55,6 +55,9 @@ color: #404bbf;
 .list-item:focus{
 color: #404bbf;
 }
+.address{
+font-style: normal;
+}
 
 /*Hero styles*/
 .hero-title{
