@@ -4,6 +4,8 @@
 }
 body{
 font-family: 'Roboto', sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 ul,
 ol {
@@ -22,6 +24,9 @@ text-decoration: none;
 }
 .header-socials{
 
+}
+.header-logo{
+font-family: 'Raleway', sans-serif;
 }
 
 /*Hero styles*/
