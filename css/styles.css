@@ -66,9 +66,12 @@ color: #434455;
 .address-link:hover{
 color: #404bbf;
 }
+.address-link:focus{
+color: #404bbf;
+}
 
 /*Hero styles*/
-.hero-title:focus{
-color: #404bbf;
+.hero-title{
+    
 }
 
