@@ -40,6 +40,9 @@ color: #4d5ae5;
 .link{
 text-decoration: none;
 }
+.list{
+list-style: none;
+}
 
 /*Hero styles*/
 .hero-title{
