@@ -2,6 +2,10 @@
 
 }
 
+.link{
+text-decoration: none;
+}
+
 /*Header styles*/
 .header{
 
@@ -10,7 +14,7 @@
 
 }
 .header-socials{
-    
+
 }
 
 /*Hero styles*/
