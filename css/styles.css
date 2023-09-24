@@ -1,8 +1,15 @@
+/*Base style*/
 :root{
 
 }
-
-.link{
+body{
+font-family: 'Roboto', sans-serif;
+}
+ul,
+ol {
+    list-style-type: none;
+}
+a{
 text-decoration: none;
 }
 
@@ -22,7 +29,3 @@ text-decoration: none;
     
 }
 
-
-ul, ol{
-list-style-type: none;
-}
