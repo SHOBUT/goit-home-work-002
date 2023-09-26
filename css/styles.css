@@ -177,8 +177,10 @@ letter-spacing: 0.02em;
     cursor: pointer;
 }
 .navigation-button:hover{
-background-color: #FFFFFF;
-    }
+background-color: #404BBF;
+color: #FFFFFF;
+}
 .navigation-button:focus{
-background-color: #FFFFFF;
+background-color: #404BBF;
+color: #FFFFFF;
 }
