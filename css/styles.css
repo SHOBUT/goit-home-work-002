@@ -176,3 +176,9 @@ letter-spacing: 0.02em;
     color: #4d5ae5;
     cursor: pointer;
 }
+.navigation-button:hover{
+background-color: #404BBF;
+    }
+.navigation-button:focus{
+background-color: #404BBF;
+}
